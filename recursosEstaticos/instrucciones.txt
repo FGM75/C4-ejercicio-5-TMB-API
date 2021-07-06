@@ -1,5 +1,6 @@
 Instrucciones para usar la API:
 
+
 Endpoints que devuelven JSON:
 /metro/lineas -> devuelve todas las líneas de metro
 /metro/linea/<linea> -> devuelve todas las paradas de la línea solicitada
